@@ -9,15 +9,17 @@ The Official Repo for Shorline Client
 
 ## Roadmap
 
-- Develop Basic C#/C++ structure
+- Develop Basic C#/C++ structure: ## DONE
 
-- Add Files from base website
+- Add Files from base website: ## DONE
 
-- Develop a working UI
+- Develop a working UI: ## DONE
 
-- Package .exe App for windows and respective platforms
+- Package .exe App for windows: ## DONE 
 
-- Upload source code to github repo
+- Upload source code to github repo: ## DONE
+
+- Create MacOS App: IN PROGRESS
 
 - Done
 
