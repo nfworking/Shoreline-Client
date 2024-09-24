@@ -1,27 +1,36 @@
 
 
-# Shorline Native Client
+# Shorline Offline Native Client
 
 The Official Repo for Shorline Client
 
+
+## Notes
+
+- This app is currently only working online with internet access, the app will soon have offline access, with payment options disabled
+
+
+## Issues
+
+- The app when extracted from zip may display Windows Defender Security Warning (Please Ignore)
 
 
 
 ## Roadmap
 
-- Develop Basic C#/C++ structure: ## DONE
+- Develop Basic C#/C++ structure
 
-- Add Files from base website: ## DONE
+- Add Files from base website
 
-- Develop a working UI: ## DONE
+- Develop a working UI
 
-- Package .exe App for windows: ## DONE 
+- Package .exe App for windows 
 
-- Upload source code to github repo: ## DONE
+- Upload source code to github repo 
 
 - Create MacOS App: IN PROGRESS
 
-- Done
+
 
 
 ## Authors
@@ -32,7 +41,7 @@ The Official Repo for Shorline Client
 ## Want to try out the website locally?
 
  Requirements
-- [Git client](https://git-scm.com/downloads)
+- [Git ](https://git-scm.com/downloads)
 - [Nodejs](https://nodejs.org/en)
 
 ```bash
@@ -41,22 +50,19 @@ The Official Repo for Shorline Client
   npm i
   npm run dev
 ```
-    
-## Screenshots
 
-Comming Soon!
 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+A license file is located at this link [MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## FAQ
 
 #### When will the client come out?
 
-Towards the end of term 4
+The basic online client has come out, 
 
 #### Will this be avaiable for all platforms
 
