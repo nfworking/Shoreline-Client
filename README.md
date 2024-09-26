@@ -31,6 +31,12 @@ The Official Repo for Shorline Client
 - Create MacOS App: IN PROGRESS
 
 
+## Technologies use to make this app
+
+- Technologies include electron.js, natifier and nodejs. 
+- Local offline client will only come out when there are better technologies avaiable 
+- Please, any issues related to this app, make an issue via this repo issues tab, Releases will be comming soon!!
+- Any suggestions to web technologies, let me know!!
 
 
 ## Authors
